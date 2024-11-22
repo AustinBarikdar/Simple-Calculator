@@ -1,5 +1,17 @@
 # React + TypeScript + Vite
 
+
+Setup Use:
+After Downloading or cloning, in terminal run "npm install".
+Then use "npm run dev", this should give you a link to use in the broswer to see the website. :D
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
