@@ -2,8 +2,13 @@
 
 
 Setup Use:
-After Downloading or cloning, in terminal run "npm install".
-Then use "npm run dev", this should give you a link to use in the broswer to see the website. :D
+
+After Downloading or cloning, in terminal run 
+```shell
+npm install
+npm run dev
+```
+this should give you a link to use in the broswer to see the website. :D
 
 
 
