@@ -1,0 +1,43 @@
+
+.DivOutput{
+  background-color: rgb(48, 55, 59);
+ }
+ .Output{
+   display: flex;
+   justify-content: end;
+   color: rgb(255, 255, 255);
+ 
+ }
+ .NumberButtons{
+   height: 115px;
+   width: 115px;
+   background-color: rgb(255, 165, 116);
+   color: black;
+ }
+ .OperatorButtons{
+   height: 115px;
+   width: 115px;
+   background-color: #ffcdb3;
+   color: black;
+ }
+ .OperatorButtons2{
+   height: 115px;
+   width: 238px;
+   background-color: #ffcdb3;
+   color: black;
+ }
+ .OperatorButtons:hover{
+   background-color: #ff9e6a;
+ }
+ .OperatorButtons2:hover{
+   background-color: #ff9e6a;
+ }
+ .NumberButtons:hover{
+   background-color: #d77039;
+ }
+ 
+ 
+ .CalculatorDiv{
+   height: 600px;
+   width: 500px;
+ }
