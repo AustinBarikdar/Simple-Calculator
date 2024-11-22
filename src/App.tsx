@@ -1,4 +1,4 @@
-import CalculatorOutput from "./components/Calculatoroutput"
+import CalculatorOutput from "./components/CalculatorOutput"
 import AllButtons from "./components/AllButtons"
 import React from "react"
 
